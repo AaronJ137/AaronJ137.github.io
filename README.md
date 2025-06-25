@@ -68,9 +68,9 @@
 <body>
 
   <header>
-    <img src="https://github.com/YOUR_USERNAME.png" alt="Profile Picture">
-    <h1>Your Name</h1>
-    <h2>Web Developer • Student • Creator</h2>
+    <img src="https://github.com/AaronJ137.png" alt="Profile Picture">
+    <h1>Aaron Jarnagin</h1>
+    <h2>Nerd • Student • Gamer</h2>
   </header>
 
   <main>
@@ -91,7 +91,7 @@
   </main>
 
   <footer>
-    © 2025 Your Name — Built with pure HTML & CSS
+    © 2025 Aaron Jarnagin
   </footer>
 
 </body>

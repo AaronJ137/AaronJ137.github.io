@@ -82,7 +82,7 @@
 
     <p>
       I'm currently wanting and trying to learn more about different types of development, like HTML, CSS, and Python. As well as trying out and using cybersecurity for myself.
-      In my free time, I like to play games and spend time with family. Ever since I was younger, I always wanted to find out what computers were really capable of, so I hope I am able to learn more every single day.
+      On my free time, I like to play games, spend time with my family, and I even plan on spending more time on learning about coding too. Ever since I was just a little kid, I always wanted to find out what computers were really capable of, so I hope I am able to learn more every single day. The technologies that we have today will get more advanced and will become our future, and I believe more people including myself need to learn more about them.
     </p>
 
     <p>

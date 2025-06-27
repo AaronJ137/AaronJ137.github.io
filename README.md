@@ -81,7 +81,7 @@
     </p>
 
     <p>
-      I'm currently wanting and trying to learn more about different types of development, like HTML, CSS, and Python. As well as trying out and using cybersecurity for myself
+      I'm currently wanting and trying to learn more about different types of development, like HTML, CSS, and Python. As well as trying out and using cybersecurity for myself.
       In my free time, I like to play games and spend time with family. Ever since I was younger, I always wanted to find out what computers were really capable of, so I hope I am able to learn more every single day.
     </p>
 

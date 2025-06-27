@@ -75,6 +75,11 @@
 
 ![image alt](https://github.com/AaronJ137/AaronJ137.github.io/blob/main/1000000466.jpg?raw=true)
 
+  
+  
+  
+  
+  
   <main>
     <h2>About Me</h2>
     <p>

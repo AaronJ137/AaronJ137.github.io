@@ -86,7 +86,7 @@
     </p>
 
     <p>
-      You can check out some of my projects on <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a>. (There will not be much yet as I am still just learning and do not know about most things about HTML and CSS.
+      You can check out some of my projects on <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a>. (There will not be much yet as I am still just learning and do not know about most things about HTML and CSS).
     </p>
   </main>
 

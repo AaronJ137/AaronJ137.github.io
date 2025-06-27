@@ -76,17 +76,17 @@
   <main>
     <h2>About Me</h2>
     <p>
-      Hello! I'm a passionate web developer who loves to build websites and explore new technologies.
-      I enjoy working on open-source projects and sharing my work on GitHub.
+      Hello! I'm Aaron Jarnagin and I am currently a person trying to learn about various codes in hopes of being a cybersecurity engineer.
+      I have just started learning about coding creating this website. I will contiune to create more of my work from learning on GitHub.
     </p>
 
     <p>
-      I'm currently learning more about front-end development, including HTML, CSS, and JavaScript.
-      In my free time, I like to contribute to small projects, design UI layouts, and write tutorials.
+      I'm currently wanting and trying to learn more about different types of development, like HTML, CSS, and Python. As well as trying out and using cybersecurity for myself
+      In my free time, I like to play games and spend time with family. Ever since I was younger, I always wanted to find out what computers were really capable of, so I hope I am able to learn more every single day.
     </p>
 
     <p>
-      Check out my projects on <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a>.
+      You can check out some of my projects on <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a>. (There will not be much yet as I am still just learning and do not know about most things about HTML and CSS.
     </p>
   </main>
 

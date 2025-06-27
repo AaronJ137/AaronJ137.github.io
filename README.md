@@ -68,15 +68,12 @@
 <body>
 
   <header>
-    <img src="https://github.com/AaronJ137.png" alt="Profile Picture">
+   <img src="https://github.com/AaronJ137/AaronJ137.github.io/blob/main/1000000466.jpg?raw=true" alt="image alt">
     <h1>Aaron Jarnagin</h1>
     <h2>Nerd • Student • Gamer</h2>
   </header>
 
-<img src="https://github.com/AaronJ137/AaronJ137.github.io/blob/main/1000000466.jpg?raw=true" alt="image alt">
 
-
-  
   <main>
     <h2>About Me</h2>
     <p>

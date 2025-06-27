@@ -73,7 +73,8 @@
     <h2>Nerd • Student • Gamer</h2>
   </header>
 
-![image alt](https://github.com/AaronJ137/AaronJ137.github.io/blob/main/1000000466.jpg?raw=true)
+<img src="https://github.com/AaronJ137/AaronJ137.github.io/blob/main/1000000466.jpg?raw=true" alt="image alt">
+
 
   
   <main>

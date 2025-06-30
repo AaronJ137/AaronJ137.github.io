@@ -77,13 +77,11 @@
   <main>
     <h2>About Me</h2>
     <p>
-      Hello! I'm Aaron Jarnagin and I am currently a person trying to learn about various codes in hopes of being a cybersecurity engineer.
-      I have just started learning about coding creating this website. I will contiune to create more of my work from learning on GitHub.
+      Hello! I'm Aaron Jarnagin, I made this website to connect with the cyber community. I am hoping to display some of my skills while learning all aspects of computer programming, coding and, cyber security to achieve a skill set that will eventually land me a job in the computer engineering industry. My true dream is to be a cybersecurity engineer for a company or even the government. I have just started learning about coding creating this website. My goal is to continue creating more of my work from learning on GitHub.
     </p>
 
     <p>
-      I'm currently wanting and trying to learn more about different types of development, like HTML, CSS, and Python. As well as trying out and using cybersecurity for myself.
-      On my free time, I like to play games, spend time with my family, and I even plan on spending more time on learning about coding too. Ever since I was just a little kid, I always wanted to find out what computers were really capable of, so I hope I am able to learn more every single day. The technologies that we have today will get more advanced and will become our future, and I believe more people including myself need to learn more about them.
+      I am currently trying to learn more about different types of development, such as: HTML, CSS, and Python. As well as trying out and using cybersecurity for myself. On my free time, I like to play games, spend time with my family, and educate myself on all aspects of computer development and engineering. Ever since I was just a little child, I have always wanted to find out what computers were really capable of. Every single day, I utilize my computer to become efficient in this environment. The technologies that we have today will get more advanced and will become our future, and I believe more people, including myself, need to learn more about them.
     </p>
 
     <p>
